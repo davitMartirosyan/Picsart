@@ -41,5 +41,5 @@ make
 4. Run the text editor:
 
 ```bash
-./text_editor
+./picsart
 ```

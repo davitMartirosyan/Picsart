@@ -1,4 +1,4 @@
-NAME = text_editor
+NAME = picsart
 CC = gcc
 CFLAGS= -I includes/ -std=c11 -pedantic -ggdb `pkg-config --cflags sdl2`
 LIBS=`pkg-config --libs sdl2` -lm
