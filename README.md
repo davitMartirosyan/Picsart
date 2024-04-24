@@ -1,8 +1,8 @@
-# Simple Text Editor named picsart in C using SDL and STB_IMAGE
+## Simple text editor called Picsart written in C using SDL and STB_IMAGE
 
 This is a simple text editor written in C using the SDL (Simple DirectMedia Layer) library for graphics and STB_IMAGE library for image loading. 
 
-## Prerequisites
+### Prerequisites
 
 Before building and running this project, make sure you have the following dependencies installed:
 
